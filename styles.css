@@ -1,0 +1,38 @@
+#title{
+  background-color: black;
+}
+.intro-pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
+.card-text{
+  color:black;
+  text-align: center;
+}
+
+a:hover{
+  text-decoration: none;
+}
+.pic{
+  height: 230px;
+  width: 100%;
+}
+h1{
+  color: pink;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-weight: bold;
+  font-size: 7rem;
+  text-align: center;
+}
+.container-fluid{
+  padding: 2px 15% 3%;
+}
+.logo{
+  font-size: 3.5rem;
+  color: pink;
+}
+.album{
+  background-color: black;
+}
